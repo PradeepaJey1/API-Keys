@@ -1,0 +1,6 @@
+Google map api key = AIzaSyCb7KXlEw373SYjLEEfktWvJZK-QvIzB_8
+
+code to type in the command prompt 
+
+1) ionic cordova plugin add cordova-plugin-geolocation (or if it didnt work use : ionic plugin add cordova-plugin-geolocation)
+2) npm install --save @ionic-native/geolocation
